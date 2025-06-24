@@ -13,8 +13,7 @@
 
 - 🔭 Actualmente trabajando en proyectos personales para mejorar como **Fullstack Developer**  
 - 🌱 Aprendiendo **React**, **TypeScript**, **Spring Boot**, y **Docker**  
-- 💬 Me encanta hablar de arquitectura de software, productividad y aprendizaje autodidacta  
-- ⚡ Curiosidad: solo me concentro con **ASMR de lluvia ☔** y tengo **superpoderes con el TDA**
+- 💬 Me encanta hablar de arquitectura de software, productividad y aprendizaje autodidacta
 
 ---
 
